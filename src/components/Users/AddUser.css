@@ -1,0 +1,29 @@
+label {
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+}
+
+.m_t0 {
+    margin-top: 0px;
+}
+
+html {
+    background-color: #e0e0e0;
+}
+
+.m_t15 {
+    margin-top: 15px;
+}
+
+.m_t25 {
+    margin-top: 25px;
+}
+
+.neuro {
+    border-radius: 5px;
+    background: #e0e0e0;
+    box-shadow: 18px 18px 42px #828282,
+        -18px -18px 42px #ffffff;
+    padding: 50px;
+}
