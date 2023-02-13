@@ -2,6 +2,7 @@ import React from "react";
 
 import "./AddUser.css";
 import Card from "../UI/Card";
+import Button from "../UI/Button";
 
 const AddUser = (props) => {
   const addUserHandler = (event) => {
@@ -27,13 +28,7 @@ const AddUser = (props) => {
                 </div>
               </div>
               <div className="row m_t15 col offset-m5">
-                <button
-                  className="btn waves-effect waves-light"
-                  type="submit"
-                  name="action"
-                >
-                  Add User
-                </button>
+                <Button type="submit" label="Add User" />
               </div>
             </form>
           </div>
