@@ -27,3 +27,7 @@ html {
         -18px -18px 42px #ffffff;
     padding: 50px;
 }
+
+label.invalid {
+    color: red;
+}
